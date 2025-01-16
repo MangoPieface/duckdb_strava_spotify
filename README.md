@@ -1,4 +1,4 @@
-DuckDB interrogation of Spotify data
+#DuckDB interrogation of Spotify data
 
 This little bit of SQL allows you to use DuckDB to query your Spotify data, and see what tracks and artists tickled your fancy across the years.
 
